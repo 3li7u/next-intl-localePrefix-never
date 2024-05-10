@@ -1,0 +1,15 @@
+{
+  "LocaleSwitcher": {
+    "locale": "{locale, select, en {English} ar {العربية} other {Unknown}}"
+  },
+  "rootLayout": {
+    "title": "Next Intl Issue",
+    "description": ""
+  },
+  "homePage": {
+    "title": "Home"
+  },
+  "aboutPage": {
+    "title": "About"
+  }
+}

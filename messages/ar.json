@@ -1,0 +1,15 @@
+{
+  "LocaleSwitcher": {
+    "locale": "{locale, select, en {English} ar {العربية} other {غير معرف}}"
+  },
+  "rootLayout": {
+    "title": "مشكلة Next Intl",
+    "description": ""
+  },
+  "homePage": {
+    "title": "الرئيسية"
+  },
+  "aboutPage": {
+    "title": "حول"
+  }
+}
